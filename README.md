@@ -1,2 +1,5 @@
 # three-address-code-generator
-This is the final project of compiler course 
+
+Here are some codes to generate three address code for the C language.
+
+## run : `make run`
